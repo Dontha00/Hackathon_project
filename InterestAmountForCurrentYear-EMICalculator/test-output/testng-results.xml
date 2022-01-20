@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="57" passed="57" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-20T11:32:34 IST" name="Default suite" finished-at="2022-01-20T11:40:18 IST" duration-ms="464156">
+    <groups>
+      <group name="UICheck">
+        <method signature="LoanAmountCalculatorUICheckTestcases.TestFeeChargeSliderCheck()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="TestFeeChargeSliderCheck" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.TestFeechargesSlider()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="TestFeechargesSlider" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.TestFeechargesTextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="TestFeechargesTextbox" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.TestLoanTenureSlidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="TestLoanTenureSlidercheck" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testEMIslider()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testEMIslider" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testEMIslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testEMIslidercheck" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testEMItextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testEMItextbox" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testinterestrateslider()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testinterestrateslider" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testinterestrateslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testinterestrateslidercheck" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testinterestratetextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testinterestratetextbox" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testloancalcnavigate()[pri:1, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testloancalcnavigate" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testloantermslider()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testloantermslider" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testloantermtextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testloantermtextbox" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanEMIUICheckTestCases.testfeechargesslider()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testfeechargesslider" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testfeechargestextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testfeechargestextbox" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testfeeslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testfeeslidercheck" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testinterestrateslider()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testinterestrateslider" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testinterestrateslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testinterestrateslidercheck" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testinterestratetextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testinterestratetextbox" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testloanamtslider()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testloanamtslider" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testloanamtslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testloanamtslidercheck" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testloanamttextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testloanamttextbox" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testloanemicalcnavigate()[pri:1, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testloanemicalcnavigate" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testloantermslider()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testloantermslider" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testloantermslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testloantermslidercheck" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testloantermtextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testloantermtextbox" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testEMItextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testEMItextbox" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testemislider()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testemislider" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testemislidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testemislidercheck" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testfeechargesslider()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testfeechargesslider" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testfeechargestextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testfeechargestextbox" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testfeeslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testfeeslidercheck" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testinterestRatetextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testinterestRatetextbox" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testloanAmountslider()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testloanAmountslider" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testloanAmountslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testloanAmountslidercheck" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testloanAmounttextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testloanAmounttextbox" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testloanTenurenavigate()[pri:1, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testloanTenurenavigate" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testloantermslider()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testloantermslider" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testloantermslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testloantermslidercheck" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+      </group> <!-- UICheck -->
+      <group name="Regression Test">
+        <method signature="CarLoanTestCases.carEMIFormtestCase()[pri:1, instance:com.InterestAmount.Testcases.CarLoanTestCases@77659b30]" name="carEMIFormtestCase" class="com.InterestAmount.Testcases.CarLoanTestCases"/>
+        <method signature="CarLoanTestCases.getdatatestcase()[pri:2, instance:com.InterestAmount.Testcases.CarLoanTestCases@77659b30]" name="getdatatestcase" class="com.InterestAmount.Testcases.CarLoanTestCases"/>
+        <method signature="HomeLoanCalculatorTestCases.testdataexport()[pri:1, instance:com.InterestAmount.Testcases.HomeLoanCalculatorTestCases@2462cb01]" name="testdataexport" class="com.InterestAmount.Testcases.HomeLoanCalculatorTestCases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.TestFeeChargeSliderCheck()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="TestFeeChargeSliderCheck" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.TestFeechargesSlider()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="TestFeechargesSlider" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.TestFeechargesTextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="TestFeechargesTextbox" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.TestLoanTenureSlidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="TestLoanTenureSlidercheck" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testEMIslider()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testEMIslider" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testEMIslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testEMIslidercheck" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testEMItextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testEMItextbox" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testinterestrateslider()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testinterestrateslider" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testinterestrateslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testinterestrateslidercheck" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testinterestratetextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testinterestratetextbox" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testloantermslider()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testloantermslider" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testloantermtextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testloantermtextbox" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanEMIUICheckTestCases.testfeechargesslider()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testfeechargesslider" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testfeechargestextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testfeechargestextbox" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testfeeslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testfeeslidercheck" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testinterestrateslider()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testinterestrateslider" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testinterestrateslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testinterestrateslidercheck" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testinterestratetextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testinterestratetextbox" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testloanamtslider()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testloanamtslider" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testloanamtslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testloanamtslidercheck" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testloanamttextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testloanamttextbox" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testloantermslider()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testloantermslider" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testloantermslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testloantermslidercheck" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testloantermtextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testloantermtextbox" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testEMItextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testEMItextbox" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testemislider()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testemislider" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testemislidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testemislidercheck" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testfeechargesslider()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testfeechargesslider" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testfeechargestextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testfeechargestextbox" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testfeeslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testfeeslidercheck" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testinterestRatetextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testinterestRatetextbox" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testloanAmountslider()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testloanAmountslider" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testloanAmountslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testloanAmountslidercheck" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testloanAmounttextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testloanAmounttextbox" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testloantermslider()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testloantermslider" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testloantermslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testloantermslidercheck" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+      </group> <!-- Regression Test -->
+      <group name="Smoke Test">
+        <method signature="CarLoanTestCases.closetestcase()[pri:3, instance:com.InterestAmount.Testcases.CarLoanTestCases@77659b30]" name="closetestcase" class="com.InterestAmount.Testcases.CarLoanTestCases"/>
+        <method signature="CarLoanTestCases.openBrowsertestCase()[pri:0, instance:com.InterestAmount.Testcases.CarLoanTestCases@77659b30]" name="openBrowsertestCase" class="com.InterestAmount.Testcases.CarLoanTestCases"/>
+        <method signature="CarLoanTestCases.endReportestcase()[pri:4, instance:com.InterestAmount.Testcases.CarLoanTestCases@77659b30]" name="endReportestcase" class="com.InterestAmount.Testcases.CarLoanTestCases"/>
+        <method signature="HomeLoanCalculatorTestCases.close()[pri:2, instance:com.InterestAmount.Testcases.HomeLoanCalculatorTestCases@2462cb01]" name="close" class="com.InterestAmount.Testcases.HomeLoanCalculatorTestCases"/>
+        <method signature="HomeLoanCalculatorTestCases.endReport()[pri:3, instance:com.InterestAmount.Testcases.HomeLoanCalculatorTestCases@2462cb01]" name="endReport" class="com.InterestAmount.Testcases.HomeLoanCalculatorTestCases"/>
+        <method signature="HomeLoanCalculatorTestCases.testHomeEmi()[pri:1, instance:com.InterestAmount.Testcases.HomeLoanCalculatorTestCases@2462cb01]" name="testHomeEmi" class="com.InterestAmount.Testcases.HomeLoanCalculatorTestCases"/>
+        <method signature="HomeLoanCalculatorTestCases.testopenBrowser()[pri:0, instance:com.InterestAmount.Testcases.HomeLoanCalculatorTestCases@2462cb01]" name="testopenBrowser" class="com.InterestAmount.Testcases.HomeLoanCalculatorTestCases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.close()[pri:3, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="close" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.endReport()[pri:4, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="endReport" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanAmountCalculatorUICheckTestcases.testloancalcnavigate()[pri:1, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" name="testloancalcnavigate" class="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases"/>
+        <method signature="LoanEMIUICheckTestCases.close()[pri:3, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="close" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.endReport()[pri:4, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="endReport" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testloanemicalcnavigate()[pri:1, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testloanemicalcnavigate" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanEMIUICheckTestCases.testopenBrowsertestCase()[pri:0, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" name="testopenBrowsertestCase" class="com.InterestAmount.Testcases.LoanEMIUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.openBrowsertestCase()[pri:0, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="openBrowsertestCase" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testclose()[pri:3, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testclose" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testendReport()[pri:4, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testendReport" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+        <method signature="LoanTenureCalculatorUICheckTestCases.testloanTenurenavigate()[pri:1, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" name="testloanTenurenavigate" class="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases"/>
+      </group> <!-- Smoke Test -->
+    </groups>
+    <test started-at="2022-01-20T11:32:34 IST" name="Default test" finished-at="2022-01-20T11:40:18 IST" duration-ms="464156">
+      <class name="com.InterestAmount.Testcases.LoanEMIUICheckTestCases">
+        <test-method signature="testopenBrowsertestCase()[pri:0, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:33:22 IST" name="testopenBrowsertestCase" finished-at="2022-01-20T11:34:19 IST" duration-ms="57424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testopenBrowsertestCase -->
+        <test-method signature="testloanemicalcnavigate()[pri:1, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:34:20 IST" name="testloanemicalcnavigate" finished-at="2022-01-20T11:35:52 IST" duration-ms="92336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloanemicalcnavigate -->
+        <test-method signature="testfeechargesslider()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:35:52 IST" name="testfeechargesslider" finished-at="2022-01-20T11:35:53 IST" duration-ms="1374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfeechargesslider -->
+        <test-method signature="testfeechargestextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:35:53 IST" name="testfeechargestextbox" finished-at="2022-01-20T11:35:54 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfeechargestextbox -->
+        <test-method signature="testfeeslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:35:54 IST" name="testfeeslidercheck" finished-at="2022-01-20T11:35:56 IST" duration-ms="2689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfeeslidercheck -->
+        <test-method signature="testinterestrateslider()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:35:56 IST" name="testinterestrateslider" finished-at="2022-01-20T11:35:57 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testinterestrateslider -->
+        <test-method signature="testinterestrateslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:35:57 IST" name="testinterestrateslidercheck" finished-at="2022-01-20T11:35:57 IST" duration-ms="756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testinterestrateslidercheck -->
+        <test-method signature="testinterestratetextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:35:57 IST" name="testinterestratetextbox" finished-at="2022-01-20T11:35:58 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testinterestratetextbox -->
+        <test-method signature="testloanamtslider()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:35:58 IST" name="testloanamtslider" finished-at="2022-01-20T11:35:58 IST" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloanamtslider -->
+        <test-method signature="testloanamtslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:35:58 IST" name="testloanamtslidercheck" finished-at="2022-01-20T11:35:59 IST" duration-ms="586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloanamtslidercheck -->
+        <test-method signature="testloanamttextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:35:59 IST" name="testloanamttextbox" finished-at="2022-01-20T11:35:59 IST" duration-ms="443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloanamttextbox -->
+        <test-method signature="testloantermslider()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:35:59 IST" name="testloantermslider" finished-at="2022-01-20T11:36:00 IST" duration-ms="654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloantermslider -->
+        <test-method signature="testloantermslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:36:00 IST" name="testloantermslidercheck" finished-at="2022-01-20T11:36:00 IST" duration-ms="583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloantermslidercheck -->
+        <test-method signature="testloantermtextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:36:00 IST" name="testloantermtextbox" finished-at="2022-01-20T11:36:01 IST" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloantermtextbox -->
+        <test-method signature="close()[pri:3, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:36:01 IST" name="close" finished-at="2022-01-20T11:36:40 IST" duration-ms="39100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method signature="endReport()[pri:4, instance:com.InterestAmount.Testcases.LoanEMIUICheckTestCases@45efd90f]" started-at="2022-01-20T11:36:40 IST" name="endReport" finished-at="2022-01-20T11:36:47 IST" duration-ms="6894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.InterestAmount.Testcases.LoanEMIUICheckTestCases -->
+      <class name="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases">
+        <test-method is-config="true" signature="openBrowsertestCase()[pri:0, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:32:34 IST" name="openBrowsertestCase" finished-at="2022-01-20T11:33:22 IST" duration-ms="48210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowsertestCase -->
+        <test-method signature="testloancalcnavigate()[pri:1, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:36:47 IST" name="testloancalcnavigate" finished-at="2022-01-20T11:37:09 IST" duration-ms="22006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloancalcnavigate -->
+        <test-method signature="TestFeeChargeSliderCheck()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:37:09 IST" name="TestFeeChargeSliderCheck" finished-at="2022-01-20T11:37:10 IST" duration-ms="980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFeeChargeSliderCheck -->
+        <test-method signature="TestFeechargesSlider()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:37:10 IST" name="TestFeechargesSlider" finished-at="2022-01-20T11:37:10 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFeechargesSlider -->
+        <test-method signature="TestFeechargesTextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:37:10 IST" name="TestFeechargesTextbox" finished-at="2022-01-20T11:37:10 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFeechargesTextbox -->
+        <test-method signature="TestLoanTenureSlidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:37:10 IST" name="TestLoanTenureSlidercheck" finished-at="2022-01-20T11:37:10 IST" duration-ms="506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLoanTenureSlidercheck -->
+        <test-method signature="testEMIslider()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:37:10 IST" name="testEMIslider" finished-at="2022-01-20T11:37:11 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEMIslider -->
+        <test-method signature="testEMIslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:37:11 IST" name="testEMIslidercheck" finished-at="2022-01-20T11:37:11 IST" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEMIslidercheck -->
+        <test-method signature="testEMItextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:37:11 IST" name="testEMItextbox" finished-at="2022-01-20T11:37:12 IST" duration-ms="594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEMItextbox -->
+        <test-method signature="testinterestrateslider()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:37:12 IST" name="testinterestrateslider" finished-at="2022-01-20T11:37:12 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testinterestrateslider -->
+        <test-method signature="testinterestrateslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:37:12 IST" name="testinterestrateslidercheck" finished-at="2022-01-20T11:37:13 IST" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testinterestrateslidercheck -->
+        <test-method signature="testinterestratetextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:37:13 IST" name="testinterestratetextbox" finished-at="2022-01-20T11:37:13 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testinterestratetextbox -->
+        <test-method signature="testloantermslider()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:37:13 IST" name="testloantermslider" finished-at="2022-01-20T11:37:13 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloantermslider -->
+        <test-method signature="testloantermtextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:37:13 IST" name="testloantermtextbox" finished-at="2022-01-20T11:37:13 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloantermtextbox -->
+        <test-method signature="close()[pri:3, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:37:13 IST" name="close" finished-at="2022-01-20T11:37:21 IST" duration-ms="8349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method signature="endReport()[pri:4, instance:com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases@7b50df34]" started-at="2022-01-20T11:37:21 IST" name="endReport" finished-at="2022-01-20T11:37:22 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases -->
+      <class name="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases">
+        <test-method signature="openBrowsertestCase()[pri:0, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:37:22 IST" name="openBrowsertestCase" finished-at="2022-01-20T11:38:08 IST" duration-ms="46716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowsertestCase -->
+        <test-method signature="testloanTenurenavigate()[pri:1, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:38:08 IST" name="testloanTenurenavigate" finished-at="2022-01-20T11:38:28 IST" duration-ms="19991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloanTenurenavigate -->
+        <test-method signature="testEMItextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:38:28 IST" name="testEMItextbox" finished-at="2022-01-20T11:38:28 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEMItextbox -->
+        <test-method signature="testemislider()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:38:28 IST" name="testemislider" finished-at="2022-01-20T11:38:29 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testemislider -->
+        <test-method signature="testemislidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:38:29 IST" name="testemislidercheck" finished-at="2022-01-20T11:38:29 IST" duration-ms="522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testemislidercheck -->
+        <test-method signature="testfeechargesslider()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:38:29 IST" name="testfeechargesslider" finished-at="2022-01-20T11:38:29 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfeechargesslider -->
+        <test-method signature="testfeechargestextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:38:29 IST" name="testfeechargestextbox" finished-at="2022-01-20T11:38:29 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfeechargestextbox -->
+        <test-method signature="testfeeslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:38:29 IST" name="testfeeslidercheck" finished-at="2022-01-20T11:38:30 IST" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfeeslidercheck -->
+        <test-method signature="testinterestRatetextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:38:30 IST" name="testinterestRatetextbox" finished-at="2022-01-20T11:38:30 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testinterestRatetextbox -->
+        <test-method signature="testloanAmountslider()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:38:30 IST" name="testloanAmountslider" finished-at="2022-01-20T11:38:30 IST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloanAmountslider -->
+        <test-method signature="testloanAmountslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:38:30 IST" name="testloanAmountslidercheck" finished-at="2022-01-20T11:38:31 IST" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloanAmountslidercheck -->
+        <test-method signature="testloanAmounttextbox()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:38:31 IST" name="testloanAmounttextbox" finished-at="2022-01-20T11:38:32 IST" duration-ms="874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloanAmounttextbox -->
+        <test-method signature="testloantermslider()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:38:32 IST" name="testloantermslider" finished-at="2022-01-20T11:38:32 IST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloantermslider -->
+        <test-method signature="testloantermslidercheck()[pri:2, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:38:32 IST" name="testloantermslidercheck" finished-at="2022-01-20T11:38:33 IST" duration-ms="907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloantermslidercheck -->
+        <test-method signature="testclose()[pri:3, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:38:33 IST" name="testclose" finished-at="2022-01-20T11:38:36 IST" duration-ms="3608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testclose -->
+        <test-method signature="testendReport()[pri:4, instance:com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases@1b410b60]" started-at="2022-01-20T11:38:36 IST" name="testendReport" finished-at="2022-01-20T11:38:36 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testendReport -->
+      </class> <!-- com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases -->
+      <class name="com.InterestAmount.Testcases.HomeLoanCalculatorTestCases">
+        <test-method signature="testopenBrowser()[pri:0, instance:com.InterestAmount.Testcases.HomeLoanCalculatorTestCases@2462cb01]" started-at="2022-01-20T11:38:36 IST" name="testopenBrowser" finished-at="2022-01-20T11:39:17 IST" duration-ms="41081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testopenBrowser -->
+        <test-method signature="testHomeEmi()[pri:1, instance:com.InterestAmount.Testcases.HomeLoanCalculatorTestCases@2462cb01]" started-at="2022-01-20T11:39:17 IST" name="testHomeEmi" finished-at="2022-01-20T11:39:28 IST" duration-ms="11044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomeEmi -->
+        <test-method signature="testdataexport()[pri:1, instance:com.InterestAmount.Testcases.HomeLoanCalculatorTestCases@2462cb01]" started-at="2022-01-20T11:39:28 IST" name="testdataexport" finished-at="2022-01-20T11:39:33 IST" duration-ms="4974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdataexport -->
+        <test-method signature="close()[pri:2, instance:com.InterestAmount.Testcases.HomeLoanCalculatorTestCases@2462cb01]" started-at="2022-01-20T11:39:33 IST" name="close" finished-at="2022-01-20T11:39:37 IST" duration-ms="3606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method signature="endReport()[pri:3, instance:com.InterestAmount.Testcases.HomeLoanCalculatorTestCases@2462cb01]" started-at="2022-01-20T11:39:37 IST" name="endReport" finished-at="2022-01-20T11:39:37 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.InterestAmount.Testcases.HomeLoanCalculatorTestCases -->
+      <class name="com.InterestAmount.Testcases.CarLoanTestCases">
+        <test-method signature="openBrowsertestCase()[pri:0, instance:com.InterestAmount.Testcases.CarLoanTestCases@77659b30]" started-at="2022-01-20T11:39:37 IST" name="openBrowsertestCase" finished-at="2022-01-20T11:40:13 IST" duration-ms="35738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowsertestCase -->
+        <test-method signature="carEMIFormtestCase()[pri:1, instance:com.InterestAmount.Testcases.CarLoanTestCases@77659b30]" started-at="2022-01-20T11:40:13 IST" name="carEMIFormtestCase" finished-at="2022-01-20T11:40:14 IST" duration-ms="1036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carEMIFormtestCase -->
+        <test-method signature="getdatatestcase()[pri:2, instance:com.InterestAmount.Testcases.CarLoanTestCases@77659b30]" started-at="2022-01-20T11:40:14 IST" name="getdatatestcase" finished-at="2022-01-20T11:40:15 IST" depends-on-methods="com.InterestAmount.Testcases.CarLoanTestCases.carEMIFormtestCase" duration-ms="1463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdatatestcase -->
+        <test-method signature="closetestcase()[pri:3, instance:com.InterestAmount.Testcases.CarLoanTestCases@77659b30]" started-at="2022-01-20T11:40:15 IST" name="closetestcase" finished-at="2022-01-20T11:40:18 IST" duration-ms="2286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closetestcase -->
+        <test-method signature="endReportestcase()[pri:4, instance:com.InterestAmount.Testcases.CarLoanTestCases@77659b30]" started-at="2022-01-20T11:40:18 IST" name="endReportestcase" finished-at="2022-01-20T11:40:18 IST" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReportestcase -->
+      </class> <!-- com.InterestAmount.Testcases.CarLoanTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

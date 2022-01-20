@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.InterestAmount.Testcases.LoanEMIUICheckTestCases">
+        <methods>
+          <include name="testfeechargesslider"/>
+          <include name="testloanemicalcnavigate"/>
+          <include name="testloantermslider"/>
+          <include name="testopenBrowsertestCase"/>
+          <include name="testloanamtslider"/>
+          <include name="close"/>
+          <include name="testloanamttextbox"/>
+          <include name="testfeechargestextbox"/>
+          <include name="testloantermtextbox"/>
+          <include name="testinterestrateslider"/>
+          <include name="testloantermslidercheck"/>
+          <include name="testfeeslidercheck"/>
+          <include name="testinterestrateslidercheck"/>
+          <include name="testloanamtslidercheck"/>
+          <include name="testinterestratetextbox"/>
+          <include name="endReport"/>
+        </methods>
+      </class> <!-- com.InterestAmount.Testcases.LoanEMIUICheckTestCases -->
+      <class name="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases">
+        <methods>
+          <include name="testinterestratetextbox"/>
+          <include name="testloantermslider"/>
+          <include name="testEMIslidercheck"/>
+          <include name="testEMItextbox"/>
+          <include name="testloancalcnavigate"/>
+          <include name="testEMIslider"/>
+          <include name="close"/>
+          <include name="TestFeechargesTextbox"/>
+          <include name="TestFeechargesSlider"/>
+          <include name="testloantermtextbox"/>
+          <include name="testinterestrateslider"/>
+          <include name="testinterestrateslidercheck"/>
+          <include name="TestLoanTenureSlidercheck"/>
+          <include name="openBrowsertestCase"/>
+          <include name="TestFeeChargeSliderCheck"/>
+          <include name="endReport"/>
+        </methods>
+      </class> <!-- com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases -->
+      <class name="com.InterestAmount.Testcases.HomeLoanCalculatorTestCases">
+        <methods>
+          <include name="close"/>
+          <include name="testopenBrowser"/>
+          <include name="endReport"/>
+          <include name="testdataexport"/>
+          <include name="testHomeEmi"/>
+        </methods>
+      </class> <!-- com.InterestAmount.Testcases.HomeLoanCalculatorTestCases -->
+      <class name="com.InterestAmount.Testcases.CarLoanTestCases">
+        <methods>
+          <include name="closetestcase"/>
+          <include name="openBrowsertestCase"/>
+          <include name="getdatatestcase"/>
+          <include name="endReportestcase"/>
+          <include name="carEMIFormtestCase"/>
+        </methods>
+      </class> <!-- com.InterestAmount.Testcases.CarLoanTestCases -->
+      <class name="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases">
+        <methods>
+          <include name="testclose"/>
+          <include name="testendReport"/>
+          <include name="testloantermslidercheck"/>
+          <include name="testloanTenurenavigate"/>
+          <include name="testemislidercheck"/>
+          <include name="testfeechargestextbox"/>
+          <include name="openBrowsertestCase"/>
+          <include name="testfeeslidercheck"/>
+          <include name="testloantermslider"/>
+          <include name="testemislider"/>
+          <include name="testloanAmountslidercheck"/>
+          <include name="testfeechargesslider"/>
+          <include name="testloanAmounttextbox"/>
+          <include name="testEMItextbox"/>
+          <include name="testinterestRatetextbox"/>
+          <include name="testloanAmountslider"/>
+        </methods>
+      </class> <!-- com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
